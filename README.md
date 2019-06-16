@@ -9,7 +9,7 @@
 ## Run experiments
 
 ```
-python train_citeseer.py
+python train_cora.py
 ```
 ## Data
 In order to use your own data, you have to provide 
