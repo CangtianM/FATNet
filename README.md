@@ -5,6 +5,9 @@
 ## Requirements
 * tensorflow (>0.14)
 
+## Preprocess data
+
+Run the walk.py for data preprocessing.
 
 ## Run experiments
 
